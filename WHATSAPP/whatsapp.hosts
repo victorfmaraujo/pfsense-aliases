@@ -1,5 +1,10 @@
+a.ns.whatsapp.net
+android-crashlog.whatsapp.net
 api.whatsapp.com
+b.ns.whatsapp.net
 b.whatsapp.com
+blog.whatsapp.com
+c.ns.whatsapp.net
 c.whatsapp.net
 c1.whatsapp.net
 c10.whatsapp.net
@@ -15,6 +20,7 @@ cdn.whatsapp.net
 chat.cdn.whatsapp.net
 chat.whatsapp.com
 crashlogs.whatsapp.net
+d.ns.whatsapp.net
 dyn.web.whatsapp.com
 dyn.whatsapp.com
 e.whatsapp.net
@@ -58,6 +64,7 @@ fttx-177126299.usr.predialnet.com.br
 fttx-17713613359.usr.predialnet.com.br
 g.whatsapp.net
 graph.whatsapp.net
+m.whatsapp.net
 media-atl3-1.cdn.whatsapp.net
 media-bos3-1.cdn.whatsapp.net
 media-den4-1.cdn.whatsapp.net
@@ -167,13 +174,17 @@ media.fumu1-1.fna.whatsapp.net
 mmg-fna.whatsapp.net
 mmg.fna.whatsapp.net
 mmg.whatsapp.net
+mmh.whatsapp.net
+mms.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 ns1.p13.dynect.net
 ns2.p13.dynect.net
 ns3.p13.dynect.net
 ns4.p13.dynect.net
+p.whatsapp.net
 pps.whatsapp.net
 privatestats.whatsapp.net
+r.whatsapp.net
 s.whatsapp.net
 s1.whatsapp.net
 s10.whatsapp.net
@@ -196,6 +207,7 @@ sonar.figu4-1.fna.whatsapp.net
 sonar.fsdu13-1.fna.whatsapp.net
 sonar.fumu1-1.fna.whatsapp.net
 sro.whatsapp.net
+static.reverse.softlayer.com
 static.whatsapp.net
 v.whatsapp.com
 v.whatsapp.net
@@ -230,4 +242,5 @@ whatsapp-chatd-edge-shv-02-mia3.facebook.com
 whatsapp-chatd-edge-shv-02-ort2.facebook.com
 whatsapp.com
 whatsapp.net
+www-cdn.whatsapp.net
 www.whatsapp.com
