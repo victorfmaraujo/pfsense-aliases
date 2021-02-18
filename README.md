@@ -1,3 +1,8 @@
 # pfsense-aliases
 
-Repositório destinado à facilitação da comunidade em realizar liberações no FIREWALL (ALIASES) e URLS (SquidGuard)
+Repositório destinado à compilação de listas de FQDNS de serviços populares no Brasil.
+
+O Formato das listas está compatível com os Alias do tipo URL Tables do pfsense, bastando colocar a URL RAW no cadastro do Alias.
+
+Contribuições na lista são bem vindas.
+
