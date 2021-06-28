@@ -44,6 +44,7 @@ ipv4-c039-rio001-ix.1.oca.nflxvideo.net
 ipv4-c040-rio001-ix.1.oca.nflxvideo.net
 ipv4-c041-rio001-ix.1.oca.nflxvideo.net
 ipv4-c043-rio001-ix.1.oca.nflxvideo.net
+ipv4-c043-rio001-ix.ftl.nflxvideo.net
 ipv4-c049-rio001-ix.1.oca.nflxvideo.net
 ipv4-c050-rio001-ix.1.oca.nflxvideo.net
 ipv4-c052-rio001-ix.1.oca.nflxvideo.net
@@ -58,6 +59,11 @@ ixanycast.ftl.netflix.com
 mobile-ixanycast.ftl.netflix.com
 mobile.prod.dradis.netflix.com
 mobile.prod.us-east-1.internal.dradis.netflix.com
+netflix.com
+nflxext.com
+nflximg.net
+nflxso.net
+nflxvideo.net
 nfrt-mobile-direct6.prod.ftl.netflix.com
 oca-api.dradis.netflix.com
 oca-api.eu-west-1.origin.prodaa.netflix.com
@@ -69,3 +75,4 @@ probe-dradis.prod.ftl.netflix.com
 www.dradis.netflix.com
 www.netflix.com
 www.us-east-1.internal.dradis.netflix.com
+anycast.ftl.netflix.com
