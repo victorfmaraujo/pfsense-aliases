@@ -10,5 +10,9 @@
 138.59.160.0/22
 104.64.0.0/10 # Akamai
 104.108.96.0/19  # Akamai
+104.70.188.0/22 # AKAMAI
 76.223.82.0/24 # aws
+142.250.0.0/15 #google cloud
+23.32.0.0/11 # American Registry for Internet Numbers
+23.50.124.0/22 #  	Akamai Technologies, Inc.
 
