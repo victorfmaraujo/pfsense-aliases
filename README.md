@@ -5,10 +5,11 @@ Repositório destinado à compilação de listas de FQDNS de serviços populares
 O Formato das listas está compatível com os Alias do tipo URL Tables do pfsense, bastando colocar a URL RAW no cadastro do Alias.
 
 Contribuições na lista são bem vindas.
-#whatsapp hostnames
 
-#hostnames whatsapp
+# whatsapp hostnames
 
-#https://www.whatsapp.com/cidr.txt
+# hostnames whatsapp
 
-#whatsappcidr
+# https://www.whatsapp.com/cidr.txt
+
+# whatsappcidr
