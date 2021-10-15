@@ -6,6 +6,9 @@ O Formato das listas está compatível com os Alias do tipo URL Tables do pfsens
 
 Contribuições na lista são bem vindas.
 #whatsapp hostnames
+
 #hostnames whatsapp
+
 #https://www.whatsapp.com/cidr.txt
+
 #whatsappcidr
