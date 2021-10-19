@@ -24,6 +24,8 @@
 23.203.136.0/22 # AKAMAI
 23.32.0.0/11 # American Registry for Internet Numbers
 23.50.124.0/22 #  	AKAMAI
+23.64.0.0/14 # AKAMAI
+23.65.128.0/20 #AKAMAI
 75.2.31.0/24 # AWS
 76.223.48.0/24 # amazon
 76.223.66.0/24 # AWS
