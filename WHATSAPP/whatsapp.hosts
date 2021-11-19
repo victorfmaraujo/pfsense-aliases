@@ -6,6 +6,7 @@ android-crashlog.whatsapp.net
 api.facebook.com
 api.whatsapp.com
 autodiscover.whatsapp.com
+b-api.facebook.com
 b-graph.facebook.com
 b.ns.cdn.whatsapp.net
 b.ns.whatsapp.net
@@ -63,6 +64,7 @@ e7.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
 edge-mqtt.facebook.com
+edge-star-shv-01-gig2.facebook.com
 edgeray-shv-01-atl3.facebook.com
 edgeray-shv-01-cdt1.facebook.com
 edgeray-shv-01-eze1.facebook.com
@@ -83,6 +85,9 @@ g.whatsapp.net
 gamma.whatsapp.com
 graph.facebook.com
 graph.whatsapp.net
+instagram.fsdu16-1.fna.fbcdn.net
+instagram.fsdu6-1.fna.fbcdn.net
+instagram.fsdu7-1.fna.fbcdn.net
 llwhatsapp.blob.core.windows.net
 m.whatsapp.com
 m.whatsapp.net
@@ -316,6 +321,7 @@ mms.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 mqtt-mini.c10r.facebook.com
 mqtt-mini.facebook.com
+mqtt.c10r.facebook.com
 ns1.p13.dynect.net
 ns2.p13.dynect.net
 ns3.p13.dynect.net
@@ -323,6 +329,7 @@ ns4.p13.dynect.net
 p.whatsapp.net
 pps.whatsapp.net
 privatestats.whatsapp.net
+pt-br.facebook.com
 r.whatsapp.net
 ratings.whatsapp.com
 s.whatsapp.net
