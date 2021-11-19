@@ -3,14 +3,17 @@ a.ns.whatsapp.net
 account.whatsapp.com
 alpha.whatsapp.com
 android-crashlog.whatsapp.net
+api.facebook.com
 api.whatsapp.com
 autodiscover.whatsapp.com
+b-graph.facebook.com
 b.ns.cdn.whatsapp.net
 b.ns.whatsapp.net
 b.whatsapp.com
 beta.whatsapp.com
 betablog.whatsapp.com
 blog.whatsapp.com
+business.facebook.com
 c.ns.cdn.whatsapp.net
 c.ns.whatsapp.net
 c.whatsapp.net
@@ -26,8 +29,11 @@ c8.whatsapp.net
 c9.whatsapp.net
 cdn.snr.whatsapp.net
 cdn.whatsapp.net
+chat-e2ee-mini.c10r.facebook.com
+chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.whatsapp.com
+connect.facebook.net
 crashlogs.whatsapp.net
 d.ns.cdn.whatsapp.net
 d.ns.whatsapp.net
@@ -56,6 +62,7 @@ e6.whatsapp.net
 e7.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
+edge-mqtt.facebook.com
 edgeray-shv-01-atl3.facebook.com
 edgeray-shv-01-cdt1.facebook.com
 edgeray-shv-01-eze1.facebook.com
@@ -74,6 +81,7 @@ edgeray-shv-02-mia3.facebook.com
 faq.whatsapp.com
 g.whatsapp.net
 gamma.whatsapp.com
+graph.facebook.com
 graph.whatsapp.net
 llwhatsapp.blob.core.windows.net
 m.whatsapp.com
@@ -306,6 +314,8 @@ mmi701.whatsapp.net
 mmi731.whatsapp.net
 mms.whatsapp.net
 mmx-ds.cdn.whatsapp.net
+mqtt-mini.c10r.facebook.com
+mqtt-mini.facebook.com
 ns1.p13.dynect.net
 ns2.p13.dynect.net
 ns3.p13.dynect.net
@@ -512,7 +522,11 @@ sonar.fsdu13-1.fna.whatsapp.net
 sonar.fsdu17-1.fna.whatsapp.net
 sonar.fumu1-1.fna.whatsapp.net
 sro.whatsapp.net
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
+star.facebook.com
 static.whatsapp.net
+static.xx.fbcdn.net
 translate-dev.whatsapp.com
 translate.whatsapp.com
 up.web.whatsapp.com
@@ -538,6 +552,7 @@ w136ff5fc1-guztemzwgu2tgna.snr.whatsapp.net
 w17af00731-gqzdanjwha4tmnju.snr.whatsapp.net
 w18bcfafc1-gm4tmmbzguztmnjs.snr.whatsapp.net
 w1a01f6431-ge4tmojsgi3doobq.snr.whatsapp.net
+w1a445a5b1-gm3tmobrgaztinbx.snr.whatsapp.net
 w1ae64bed1-giydiobzgi3deobx.snr.whatsapp.net
 w2.web.whatsapp.com
 w2252ea531-gm4tqnbuge3dimb.snr.whatsapp.net
@@ -664,9 +679,8 @@ we70c54f41-geztanbtg43tsnrs.snr.whatsapp.net
 we9f87e9c1-gm2tenjrhaytoobw.snr.whatsapp.net
 wea0596a01-giytinrygi3timjv.nr.whatsapp.net
 wea0596a01-giytinrygi3timjv.snr.whatsapp.net
+web.facebook.com
 web.whatsapp.com
-web.whatsapp.com
-dit.whatsapp.net
 wecfaf25a1-giydmobrg4ztcobt.snr.whatsapp.net
 wee1c54841-gizdqobrgi2danbt.snr.whatsapp.net
 wee3916931-gqydinrwgyztcmbs.snr.whatsapp.net
@@ -723,6 +737,7 @@ whatsapp.com
 whatsapp.net
 whatsapp.se
 www-cdn.whatsapp.net
+www.facebook.com
 www.whatsapp.com
 wwwl.whatsapp.com
 z-m-scontent.xx.fbcdn.net
