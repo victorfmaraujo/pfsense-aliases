@@ -3,18 +3,14 @@ a.ns.whatsapp.net
 account.whatsapp.com
 alpha.whatsapp.com
 android-crashlog.whatsapp.net
-api.facebook.com
 api.whatsapp.com
 autodiscover.whatsapp.com
-b-api.facebook.com
-b-graph.facebook.com
 b.ns.cdn.whatsapp.net
 b.ns.whatsapp.net
 b.whatsapp.com
 beta.whatsapp.com
 betablog.whatsapp.com
 blog.whatsapp.com
-business.facebook.com
 c.ns.cdn.whatsapp.net
 c.ns.whatsapp.net
 c.whatsapp.net
@@ -30,8 +26,6 @@ c8.whatsapp.net
 c9.whatsapp.net
 cdn.snr.whatsapp.net
 cdn.whatsapp.net
-chat-e2ee-mini.c10r.facebook.com
-chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.whatsapp.com
 connect.facebook.net
@@ -63,31 +57,10 @@ e6.whatsapp.net
 e7.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
-edge-mqtt.facebook.com
-edge-star-shv-01-gig2.facebook.com
-edgeray-shv-01-atl3.facebook.com
-edgeray-shv-01-cdt1.facebook.com
-edgeray-shv-01-eze1.facebook.com
-edgeray-shv-01-for1.facebook.com
-edgeray-shv-01-gig2.facebook.com
-edgeray-shv-01-gru1.facebook.com
-edgeray-shv-01-gru2.facebook.com
-edgeray-shv-01-lis1.facebook.com
-edgeray-shv-01-mad1.facebook.com
-edgeray-shv-01-scl2.facebook.com
-edgeray-shv-02-atl3.facebook.com
-edgeray-shv-02-gru1.facebook.com
-edgeray-shv-02-gru2.facebook.com
-edgeray-shv-02-lga3.facebook.com
-edgeray-shv-02-mia3.facebook.com
 faq.whatsapp.com
 g.whatsapp.net
 gamma.whatsapp.com
-graph.facebook.com
 graph.whatsapp.net
-instagram.fsdu16-1.fna.fbcdn.net
-instagram.fsdu6-1.fna.fbcdn.net
-instagram.fsdu7-1.fna.fbcdn.net
 llwhatsapp.blob.core.windows.net
 m.whatsapp.com
 m.whatsapp.net
@@ -319,9 +292,6 @@ mmi701.whatsapp.net
 mmi731.whatsapp.net
 mms.whatsapp.net
 mmx-ds.cdn.whatsapp.net
-mqtt-mini.c10r.facebook.com
-mqtt-mini.facebook.com
-mqtt.c10r.facebook.com
 ns1.p13.dynect.net
 ns2.p13.dynect.net
 ns3.p13.dynect.net
@@ -329,7 +299,6 @@ ns4.p13.dynect.net
 p.whatsapp.net
 pps.whatsapp.net
 privatestats.whatsapp.net
-pt-br.facebook.com
 r.whatsapp.net
 ratings.whatsapp.com
 s.whatsapp.net
@@ -529,9 +498,6 @@ sonar.fsdu13-1.fna.whatsapp.net
 sonar.fsdu17-1.fna.whatsapp.net
 sonar.fumu1-1.fna.whatsapp.net
 sro.whatsapp.net
-star-mini.c10r.facebook.com
-star.c10r.facebook.com
-star.facebook.com
 static.whatsapp.net
 static.xx.fbcdn.net
 translate-dev.whatsapp.com
@@ -686,16 +652,7 @@ we70c54f41-geztanbtg43tsnrs.snr.whatsapp.net
 we9f87e9c1-gm2tenjrhaytoobw.snr.whatsapp.net
 wea0596a01-giytinrygi3timjv.nr.whatsapp.net
 wea0596a01-giytinrygi3timjv.snr.whatsapp.net
-web.facebook.com
 web.whatsapp.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-web.whatsapp.comdit.whatsapp.net
->>>>>>> parent of f5aa96c (Update whatsapp.hosts)
-=======
-web.whatsapp.comdit.whatsapp.net
->>>>>>> parent of f5aa96c (Update whatsapp.hosts)
 wecfaf25a1-giydmobrg4ztcobt.snr.whatsapp.net
 wee1c54841-gizdqobrgi2danbt.snr.whatsapp.net
 wee3916931-gqydinrwgyztcmbs.snr.whatsapp.net
@@ -738,13 +695,6 @@ whatsapp-cdn-shv-01-sjc2.fbcdn.net
 whatsapp-cdn-shv-01-vie1.fbcdn.net
 whatsapp-cdn-shv-02-iad3.fbcdn.net
 whatsapp-cdn-shv-02-sin6.fbcdn.net
-whatsapp-chatd-edge-shv-01-dfw5.facebook.com
-whatsapp-chatd-edge-shv-01-gig2.facebook.com
-whatsapp-chatd-edge-shv-01-ort2.facebook.com
-whatsapp-chatd-edge-shv-01-sjc3.facebook.com
-whatsapp-chatd-edge-shv-02-lax3.facebook.com
-whatsapp-chatd-edge-shv-02-mia3.facebook.com
-whatsapp-chatd-edge-shv-02-ort2.facebook.com
 whatsapp-support-dashboard-alb-1976476444.ap-south-1.elb.amazonaws.com
 whatsapp-support.gupshup.io
 whatsapp.cartx.io
@@ -752,7 +702,6 @@ whatsapp.com
 whatsapp.net
 whatsapp.se
 www-cdn.whatsapp.net
-www.facebook.com
 www.whatsapp.com
 wwwl.whatsapp.com
 z-m-scontent.xx.fbcdn.net
