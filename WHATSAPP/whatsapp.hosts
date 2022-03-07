@@ -6,6 +6,7 @@ an.facebook.com
 android-crashlog.whatsapp.net
 api.facebook.com
 api.whatsapp.com
+apps.facebook.com
 autodiscover.whatsapp.com
 b-api.facebook.com
 b-graph.facebook.com
@@ -71,6 +72,7 @@ e9.whatsapp.net
 edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge-star-shv-01-gig2.facebook.com
+edge-stun.facebook.com
 external-atl3-1.xx.fbcdn.net
 external-gig2-1.xx.fbcdn.net
 external-gru2-1.xx.fbcdn.net
@@ -901,6 +903,7 @@ w3c6912dd1-gmzdcmzwheydgnzs.snr.whatsapp.net
 w4.web.whatsapp.com
 w41668c3e1-gmytqmbxgqydknjy.snr.whatsapp.net
 w443c6cdf1-gezdoobwgu4tgoa.snr.whatsapp.net
+w4a78a9791-hezdkobvg4ztenc.snr.whatsapp.net
 w4a89fa031-gmztsnbrgizdsnjq.snr.whatsapp.net
 w4bdb30641-he3dqnzuge4dmob.snr.whatsapp.net
 w4d875bec1-ge4tcnrxgu4dimrr.snr.whatsapp.net
@@ -1135,6 +1138,7 @@ z-p3-scontent.fsdu6-1.fna.fbcdn.net
 z-p3-scontent.fsdu7-1.fna.fbcdn.net
 z-p3-scontent.xx.fbcdn.net
 z-p3-static.xx.fbcdn.net
+z-p4-api.facebook.com
 z-p4-external.xx.fbcdn.net
 z-p4-graph.facebook.com
 z-p4-scontent-gig2-1.xx.fbcdn.net
