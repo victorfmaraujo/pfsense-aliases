@@ -14,6 +14,7 @@ b-www.facebook.com
 b.ns.cdn.whatsapp.net
 b.ns.whatsapp.net
 b.whatsapp.com
+badge.facebook.com
 beta.whatsapp.com
 betablog.whatsapp.com
 blog.whatsapp.com
@@ -45,6 +46,7 @@ crashlogs.whatsapp.net
 d.ns.cdn.whatsapp.net
 d.ns.whatsapp.net
 dev-web.whatsapp.com
+developers.facebook.com
 dit.whatsapp.net
 dyn.web.whatsapp.com
 dyn.whatsapp.com
@@ -81,7 +83,9 @@ external-iad3-1.xx.fbcdn.net
 external-iad3-2.xx.fbcdn.net
 external.fbhz2-2.fna.fbcdn.net
 external.fcgh26-1.fna.fbcdn.net
+external.fcgh28-1.fna.fbcdn.net
 external.fcgh4-1.fna.fbcdn.net
+external.fgig12-1.fna.fbcdn.net
 external.fgig19-1.fna.fbcdn.net
 external.fgig5-1.fna.fbcdn.net
 external.fsdu11-1.fna.fbcdn.net
@@ -108,6 +112,7 @@ f30236a4880-kadeqjit1641385255-sonar.xz.fbcdn.net
 f804fcc3d80-tmfcbpcq1644867798-sonar.xz.fbcdn.net
 f8d4a7f2e80-qhtuokjh1640982040-sonar.snr.fbcdn.net
 f9080f17580-yfwtzccg1642161483-sonar.xz.fbcdn.net
+f9bd5bfb380-sxgisobv1648584210-sonar.xz.fbcdn.net
 facebook.com
 faq.whatsapp.com
 fbcdn-profile-a.akamaihd.net
@@ -118,6 +123,7 @@ fea63310f80-nnwxhngw1644935477-sonar.snr.fbcdn.net
 g.whatsapp.net
 gamma.whatsapp.com
 gateway.facebook.com
+graph-fallback.facebook.com
 graph-video.facebook.com
 graph.facebook.com
 graph.whatsapp.net
@@ -385,10 +391,13 @@ ns2.p13.dynect.net
 ns3.p13.dynect.net
 ns4.p13.dynect.net
 p.whatsapp.net
+pages.facebook.com
+partner.gbwhatsapp.blog
 pixel.facebook.com
 pps.whatsapp.net
 privatestats.whatsapp.net
 pt-br.facebook.com
+pt-pt.facebook.com
 r.whatsapp.net
 ratings.whatsapp.com
 rupload-gig2-1.up.facebook.com
@@ -692,6 +701,7 @@ sonar-los2-1.xx.fbcdn.net
 sonar-maa2-1.xx.fbcdn.net
 sonar-maa2-2.xx.fbcdn.net
 sonar-mad1-1.xx.fbcdn.net
+sonar-mad1-2.xx.fbcdn.net
 sonar-man2-1.xx.fbcdn.net
 sonar-mba1-1.xx.fbcdn.net
 sonar-mct1-1.xx.fbcdn.net
@@ -784,8 +794,10 @@ star.c10r.facebook.com
 star.facebook.com
 star.fallback.c10r.facebook.com
 static-gig2-1.xx.fbcdn.net
+static.facebook.com
 static.fsdu13-1.fna.fbcdn.net
 static.fsdu15-1.fna.fbcdn.net
+static.fsdu35-2.fna.fbcdn.net
 static.whatsapp.net
 static.xx.fbcdn.net
 staticxx.facebook.com
@@ -858,6 +870,7 @@ w082d7ecc1-gi4dqmrrgi4donrw.snr.whatsapp.net
 w083bdb161-gm4denzzgu3denjr.snr.whatsapp.net
 w09215d151-ge2dcmzsge4demby.snr.whatsapp.net
 w0987498a1-gmydembqheydomju.snr.whatsapp.net
+w0ab25f551-gmzdenzrga3dmnjz.snr.whatsapp.net
 w0be1d92f1-gqzdmnbvhe2tgnc.snr.whatsapp.net
 w0c2f36de1-gi4timbsge3dcnbw.snr.whatsapp.net
 w0c4b6e271-ge4teojvgmzdoojw.snr.whatsapp.net
@@ -954,6 +967,7 @@ w66ab89a31-gm2dsnrtgi4temzu.snr.whatsapp.net
 w680eb9c21-ge3dgmbrgu3dinju.snr.whatsapp.net
 w6860173f1-ge3dcmrzgm3donju.snr.whatsapp.net
 w6885fda41-gqydsojxga2taobs.snr.whatsapp.net
+w68a5ae631-gm3damzqg42tsnzr.snr.whatsapp.net
 w6f81c2291-gm3domjvgmztanb.snr.whatsapp.net
 w7.web.whatsapp.com
 w701315101-gqydqnzxgu4tend.snr.whatsapp.net
@@ -1005,6 +1019,7 @@ w99e417881-gmzdcmzsgqztembq.snr.whatsapp.net
 w9acb42981-guzdomzrgazdcnd.snr.whatsapp.net
 w9b93ef351-gmydknzyha4tcnzq.snr.whatsapp.net
 w9bc5568f1-gezdembtgy3dcnc.snr.whatsapp.net
+w9d75b2211-geytamrqha3dgnd.snr.whatsapp.net
 w9dc144e81-gu3tcmbshaytaoa.snr.whatsapp.net
 wa25c58811-gi3donbsgyzdenzx.snr.whatsapp.net
 wa3ff2cc61-g4ztqnjwheztmna.snr.whatsapp.net
@@ -1025,6 +1040,7 @@ wb89199041-gizdsojwhe4danjz.snr.whatsapp.net
 wb90f17851-geztgobsgm4tmmbr.snr.whatsapp.net
 wb993105d1-gm3tgmztg4ydemzx.snr.whatsapp.net
 wba9aa5131-gy4denbsgaztonb.snr.whatsapp.net
+wbb413a041-he2dqmbzgaztioa.snr.whatsapp.net
 wbbb574ad1-gmztoobqgq3deojw.snr.whatsapp.net
 wbd21cac31-gi3toojvga3tinjs.snr.whatsapp.net
 wbd9d13fd1-gmydqnbxgyytmojy.snr.whatsapp.net
@@ -1032,6 +1048,7 @@ wbe2ef2151-geztonjxgq2tqnbq.snr.whatsapp.net
 wbe48a4fa1-guydsmjwgq2dsnb.snr.whatsapp.net
 wbf101d311-giydsmrzgmztiojy.snr.whatsapp.net
 wbfda0c541-g42tenrwhe2dmnb.snr.whatsapp.net
+wc52681aa1-gu2tknbtheytgob.snr.whatsapp.net
 wc55854e01-gm4dqnrvg42tomzq.snr.whatsapp.net
 wc5f8d7571-gi2tcmzug43dgnjr.snr.whatsapp.net
 wc70575891-gqydqmzsgu2tamzy.snr.whatsapp.net
@@ -1055,6 +1072,7 @@ wdb1529e71-g4ydknbvgm3dkmc.snr.whatsapp.net
 wdc48d38c1-gi3tcnbyga4tinzv.snr.whatsapp.net
 wdd4cd34d1-ge3temzrgy3daojy.snr.whatsapp.net
 wdf807be21-gqydembzgu2tsmrx.snr.whatsapp.net
+we0ee87911-gm2tsobzgezdonjx.snr.whatsapp.net
 we2f579091-geydmmzrge4tombq.snr.whatsapp.net
 we31826391-ge3dinztge3tombu.snr.whatsapp.net
 we44fd1d01-gm4dgnzsga3diojs.snr.whatsapp.net
@@ -1084,6 +1102,7 @@ wf494b9681-giztcnzsg44tiobt.snr.whatsapp.net
 wf537ef4f1-gm4diojwhe3tiobw.snr.whatsapp.net
 wf5b654921-gmztgmjugi2dcmzw.snr.whatsapp.net
 wf721a6ab1-geytmobuga4dinby.snr.whatsapp.net
+wf7e5e8841-ge3donbrgy4tknjv.snr.whatsapp.net
 wf89f5c711-ge3dqobvgu2dkmzs.snr.whatsapp.net
 wf9199bf81-gi2dqnrsgqytsnby.snr.whatsapp.net
 wf92699291-ge3tmmbvhaydqmrs.snr.whatsapp.net
@@ -1129,13 +1148,16 @@ whatsapp.se
 whatsapp.sticker.fan
 www-cdn.whatsapp.net
 www.facebook.com
+www.facebook.com.br
 www.whatsapp.com
 wwwl.whatsapp.com
 xx.fbcdn.net
+z-m-gateway.facebook.com
 z-m-graph.facebook.com
 z-m-lookaside.facebook.com
 z-m-scontent-gig2-1.xx.fbcdn.net
 z-m-scontent.fsdu15-1.fna.fbcdn.net
+z-m-scontent.fsdu6-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
 z-m-static.xx.fbcdn.net
 z-m.c10r.facebook.com
