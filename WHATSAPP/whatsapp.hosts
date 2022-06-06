@@ -1,4 +1,3 @@
-
 a.ns.cdn.whatsapp.net
 a.ns.whatsapp.net
 account.whatsapp.com
@@ -8,6 +7,7 @@ android-crashlog.whatsapp.net
 api.facebook.com
 api.whatsapp.com
 apps.facebook.com
+ar-ar.facebook.com
 atlas.c10r.facebook.com
 autodiscover.whatsapp.com
 b-api.facebook.com
@@ -118,6 +118,7 @@ external.fstu2-1.fna.fbcdn.net
 external.xx.fbcdn.net
 f13a123f280-dieyhipo1638806066-sonar.snr.fbcdn.net
 f163d948780-etkywyyn1639413046-sonar.xz.fbcdn.net
+f29a371d180-gskwclja1654174956-sonar.snr.fbcdn.net
 f30236a4880-kadeqjit1641385255-sonar.xz.fbcdn.net
 f804fcc3d80-tmfcbpcq1644867798-sonar.xz.fbcdn.net
 f836c616a80-rpbejtab1651889276-sonar.xz.fbcdn.net
@@ -125,6 +126,7 @@ f8d4a7f2e80-qhtuokjh1640982040-sonar.snr.fbcdn.net
 f90279aa680-nriogmdd1651661707-sonar.snr.fbcdn.net
 f9080f17580-yfwtzccg1642161483-sonar.xz.fbcdn.net
 f9786adab80-fenxvpaf1650042497-sonar.xz.fbcdn.net
+f98b33afa80-jhprvjhf1654522870-sonar.xz.fbcdn.net
 f9bd5bfb380-sxgisobv1648584210-sonar.xz.fbcdn.net
 facebook-dlocal-com-vt1.astropay.prod2.reblaze.com
 facebook.com
@@ -829,6 +831,7 @@ static.facebook.com
 static.fsdu13-1.fna.fbcdn.net
 static.fsdu15-1.fna.fbcdn.net
 static.fsdu35-2.fna.fbcdn.net
+static.fsdu4-1.fna.fbcdn.net
 static.whatsapp.net
 static.xx.fbcdn.net
 staticxx.facebook.com
@@ -1090,6 +1093,7 @@ w9bc5568f1-gezdembtgy3dcnc.snr.whatsapp.net
 w9d75b2211-geytamrqha3dgnd.snr.whatsapp.net
 w9dc144e81-gu3tcmbshaytaoa.snr.whatsapp.net
 wa25c58811-gi3donbsgyzdenzx.snr.whatsapp.net
+wa2a3ce301-gqydkobwgyzdqojt.snr.whatsapp.net
 wa3ff2cc61-g4ztqnjwheztmna.snr.whatsapp.net
 wa4d4d70e1-gyydgojsge3tcob.snr.whatsapp.net
 wa5be095a1-ge4tinbrgmydamzt.snr.whatsapp.net
