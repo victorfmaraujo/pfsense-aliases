@@ -47,6 +47,8 @@ cdn.whatsapp.net
 chat-e2ee-ig-p42.c10r.facebook.com
 chat-e2ee-mini.c10r.facebook.com
 chat-e2ee-mini.facebook.com
+chat-e2ee.c10r.facebook.com
+chat-e2ee.facebook.com
 chat-fallback.cdn.whatsapp.net
 chat.cdn.whatsapp.net
 chat.whatsapp.com
@@ -105,6 +107,7 @@ external-atl3-2.xx.fbcdn.net
 external-dfw5-1.xx.fbcdn.net
 external-gig2-1.xx.fbcdn.net
 external-gig4-1.xx.fbcdn.net
+external-gig4-2.xx.fbcdn.net
 external-gru1-1.xx.fbcdn.net
 external-gru1-2.xx.fbcdn.net
 external-gru2-1.xx.fbcdn.net
@@ -179,7 +182,9 @@ f53fd37b180-vlbssiuc1665146147-sonar.xz.fbcdn.net
 f5967eac480-xnqsyykq1656440890-sonar.xz.fbcdn.net
 f621b97a380-unxikjnb1668676772-sonar.xz.fbcdn.net
 f68a36f2280-epshhsbd1671477893-sonar.xz.fbcdn.net
+f70616aed80-mpdeqowc1688318645-sonar.snr.fbcdn.net
 f70b3c7f080-zlrjhcte1673986049-sonar.xz.fbcdn.net
+f7a76adf080-bkcbrpej1687983841-sonar.snr.fbcdn.net
 f804fcc3d80-tmfcbpcq1644867798-sonar.xz.fbcdn.net
 f836c616a80-rpbejtab1651889276-sonar.xz.fbcdn.net
 f847df8c280-txbkqhbn1659030091-sonar.xz.fbcdn.net
@@ -214,6 +219,7 @@ fblite-mini.c10r.facebook.com
 fblite-p1.c10r.facebook.com
 fc046638780-qbwnuegb1674565781-sonar.snr.fbcdn.net
 fce98917a80-ixyxtwzo1668018474-sonar.xz.fbcdn.net
+fd125353080-mwimokyz1687714913-sonar.snr.fbcdn.net
 fd4d6b19880-ojcibodl1650901696-sonar.xz.fbcdn.net
 fd5bb3cef80-ewtzjhyf1669917781-sonar.xz.fbcdn.net
 fd6889f1480-ryfcmaku1683025259-sonar.snr.fbcdn.net
@@ -226,6 +232,7 @@ fe338c0f980-gbxtrpcq1678907191-sonar.xz.fbcdn.net
 fe50ca3f580-hjhllxbi1671467133-sonar.xz.fbcdn.net
 fe8063a0580-jvuyazsv1687285173-sonar.xz.fbcdn.net
 fea63310f80-nnwxhngw1644935477-sonar.snr.fbcdn.net
+ff40678a580-zobuvjla1688246249-sonar.snr.fbcdn.net
 ff9b4803480-zpjtjdvk1670319753-sonar.xz.fbcdn.net
 ffaba742280-gwhunwcd1669822855-sonar.xz.fbcdn.net
 ffbe21a6a80-daxglyow1665147961-sonar.snr.fbcdn.net
@@ -234,6 +241,8 @@ fna.whatsapp.net
 free.facebook.com
 g-fallback.whatsapp.net
 g.whatsapp.net
+g.whatsapp.neta.ns.c10r.facebook.com
+g.whatsapp.netadsmanager.facebook.com
 gamma.whatsapp.com
 gateway-fallback.facebook.com
 gateway.facebook.com
@@ -284,6 +293,7 @@ instagram.faep4-2.fna.fbcdn.net
 instagram.faep4-3.fna.fbcdn.net
 instagram.faep41-1.fna.fbcdn.net
 instagram.faep6-1.fna.fbcdn.net
+instagram.faep6-2.fna.fbcdn.net
 instagram.faep8-1.fna.fbcdn.net
 instagram.faep8-2.fna.fbcdn.net
 instagram.faep8-3.fna.fbcdn.net
@@ -298,9 +308,11 @@ instagram.fagr1-2.fna.fbcdn.net
 instagram.faju10-1.fna.fbcdn.net
 instagram.faju14-1.fna.fbcdn.net
 instagram.faju18-1.fna.fbcdn.net
+instagram.faju19-1.fna.fbcdn.net
 instagram.faju4-1.fna.fbcdn.net
 instagram.faju4-2.fna.fbcdn.net
 instagram.faju7-1.fna.fbcdn.net
+instagram.fakx4-1.fna.fbcdn.net
 instagram.fala4-3.fna.fbcdn.net
 instagram.falg6-2.fna.fbcdn.net
 instagram.famd1-3.fna.fbcdn.net
@@ -399,12 +411,14 @@ instagram.fbps1-1.fna.fbcdn.net
 instagram.fbps3-1.fna.fbcdn.net
 instagram.fbqh1-1.fna.fbcdn.net
 instagram.fbre3-1.fna.fbcdn.net
+instagram.fbri2-1.fna.fbcdn.net
 instagram.fbrm1-1.fna.fbcdn.net
 instagram.fbrn2-1.fna.fbcdn.net
 instagram.fbru1-1.fna.fbcdn.net
 instagram.fbru2-1.fna.fbcdn.net
 instagram.fbru4-1.fna.fbcdn.net
 instagram.fbsb1-1.fna.fbcdn.net
+instagram.fbsb10-1.fna.fbcdn.net
 instagram.fbsb11-1.fna.fbcdn.net
 instagram.fbsb12-2.fna.fbcdn.net
 instagram.fbsb13-1.fna.fbcdn.net
@@ -431,6 +445,7 @@ instagram.fcau2-1.fna.fbcdn.net
 instagram.fcau5-1.fna.fbcdn.net
 instagram.fcaw1-1.fna.fbcdn.net
 instagram.fcaw3-1.fna.fbcdn.net
+instagram.fcaw4-1.fna.fbcdn.net
 instagram.fcaw5-1.fna.fbcdn.net
 instagram.fcbb2-1.fna.fbcdn.net
 instagram.fccj2-2.fna.fbcdn.net
@@ -457,6 +472,8 @@ instagram.fceb1-2.fna.fbcdn.net
 instagram.fcfb2-1.fna.fbcdn.net
 instagram.fcfb3-1.fna.fbcdn.net
 instagram.fcfc1-1.fna.fbcdn.net
+instagram.fcfc4-1.fna.fbcdn.net
+instagram.fcfc5-1.fna.fbcdn.net
 instagram.fcgb1-1.fna.fbcdn.net
 instagram.fcgh1-1.fna.fbcdn.net
 instagram.fcgh10-1.fna.fbcdn.net
@@ -468,6 +485,7 @@ instagram.fcgh17-1.fna.fbcdn.net
 instagram.fcgh19-1.fna.fbcdn.net
 instagram.fcgh2-1.fna.fbcdn.net
 instagram.fcgh20-1.fna.fbcdn.net
+instagram.fcgh22-1.fna.fbcdn.net
 instagram.fcgh23-1.fna.fbcdn.net
 instagram.fcgh26-1.fna.fbcdn.net
 instagram.fcgh28-1.fna.fbcdn.net
@@ -486,6 +504,7 @@ instagram.fcgh5-1.fna.fbcdn.net
 instagram.fcgh51-1.fna.fbcdn.net
 instagram.fcgh6-1.fna.fbcdn.net
 instagram.fcgh63-1.fna.fbcdn.net
+instagram.fcgh65-1.fna.fbcdn.net
 instagram.fcgh68-1.fna.fbcdn.net
 instagram.fcgh7-1.fna.fbcdn.net
 instagram.fcgh8-1.fna.fbcdn.net
@@ -499,6 +518,7 @@ instagram.fcgr6-1.fna.fbcdn.net
 instagram.fcgr7-1.fna.fbcdn.net
 instagram.fcia8-2.fna.fbcdn.net
 instagram.fcix1-1.fna.fbcdn.net
+instagram.fcjb1-2.fna.fbcdn.net
 instagram.fcjs1-1.fna.fbcdn.net
 instagram.fclo1-3.fna.fbcdn.net
 instagram.fclo1-4.fna.fbcdn.net
@@ -510,6 +530,7 @@ instagram.fcmn2-2.fna.fbcdn.net
 instagram.fcmn3-1.fna.fbcdn.net
 instagram.fcmn3-2.fna.fbcdn.net
 instagram.fcnf1-1.fna.fbcdn.net
+instagram.fcnf3-1.fna.fbcdn.net
 instagram.fcnf5-1.fna.fbcdn.net
 instagram.fcnq2-1.fna.fbcdn.net
 instagram.fcnq4-1.fna.fbcdn.net
@@ -561,6 +582,7 @@ instagram.fdel25-1.fna.fbcdn.net
 instagram.fdel25-4.fna.fbcdn.net
 instagram.fdel27-1.fna.fbcdn.net
 instagram.fdel3-2.fna.fbcdn.net
+instagram.fdel4-2.fna.fbcdn.net
 instagram.fdel49-1.fna.fbcdn.net
 instagram.fdel5-2.fna.fbcdn.net
 instagram.fdel7-1.fna.fbcdn.net
@@ -578,6 +600,7 @@ instagram.fdxb1-1.fna.fbcdn.net
 instagram.fdyu4-1.fna.fbcdn.net
 instagram.febl5-2.fna.fbcdn.net
 instagram.felo1-1.fna.fbcdn.net
+instagram.felp1-1.fna.fbcdn.net
 instagram.feoh9-1.fna.fbcdn.net
 instagram.feoh9-2.fna.fbcdn.net
 instagram.fepa10-1.fna.fbcdn.net
@@ -617,6 +640,7 @@ instagram.ffln2-3.fna.fbcdn.net
 instagram.ffln4-1.fna.fbcdn.net
 instagram.ffln5-1.fna.fbcdn.net
 instagram.ffor1-2.fna.fbcdn.net
+instagram.ffor1-3.fna.fbcdn.net
 instagram.ffor10-1.fna.fbcdn.net
 instagram.ffor11-1.fna.fbcdn.net
 instagram.ffor11-2.fna.fbcdn.net
@@ -642,6 +666,7 @@ instagram.ffor9-1.fna.fbcdn.net
 instagram.ffrc7-1.fna.fbcdn.net
 instagram.fftw1-1.fna.fbcdn.net
 instagram.fgau1-2.fna.fbcdn.net
+instagram.fgau3-1.fna.fbcdn.net
 instagram.fgcm2-1.fna.fbcdn.net
 instagram.fgdl10-1.fna.fbcdn.net
 instagram.fgdl13-1.fna.fbcdn.net
@@ -656,6 +681,8 @@ instagram.fgig12-1.fna.fbcdn.net
 instagram.fgig13-1.fna.fbcdn.net
 instagram.fgig14-1.fna.fbcdn.net
 instagram.fgig14-2.fna.fbcdn.net
+instagram.fgig17-1.fna.fbcdn.net
+instagram.fgig19-1.fna.fbcdn.net
 instagram.fgig20-1.fna.fbcdn.net
 instagram.fgig21-1.fna.fbcdn.net
 instagram.fgig22-1.fna.fbcdn.net
@@ -683,6 +710,7 @@ instagram.fgye1-2.fna.fbcdn.net
 instagram.fgye10-1.fna.fbcdn.net
 instagram.fgye13-1.fna.fbcdn.net
 instagram.fgye20-1.fna.fbcdn.net
+instagram.fgye21-1.fna.fbcdn.net
 instagram.fgye5-2.fna.fbcdn.net
 instagram.fgyn1-1.fna.fbcdn.net
 instagram.fgyn10-1.fna.fbcdn.net
@@ -722,6 +750,7 @@ instagram.fimp2-2.fna.fbcdn.net
 instagram.fipn7-1.fna.fbcdn.net
 instagram.fiqq1-1.fna.fbcdn.net
 instagram.firj1-1.fna.fbcdn.net
+instagram.fisb17-1.fna.fbcdn.net
 instagram.fist1-2.fna.fbcdn.net
 instagram.fist2-2.fna.fbcdn.net
 instagram.fist7-2.fna.fbcdn.net
@@ -745,6 +774,7 @@ instagram.fjdh2-1.fna.fbcdn.net
 instagram.fjdh3-1.fna.fbcdn.net
 instagram.fjdo1-1.fna.fbcdn.net
 instagram.fjdo1-2.fna.fbcdn.net
+instagram.fjdo10-1.fna.fbcdn.net
 instagram.fjdo10-2.fna.fbcdn.net
 instagram.fjdo11-1.fna.fbcdn.net
 instagram.fjdo5-1.fna.fbcdn.net
@@ -752,9 +782,11 @@ instagram.fjjg1-1.fna.fbcdn.net
 instagram.fjoi1-1.fna.fbcdn.net
 instagram.fjoi5-1.fna.fbcdn.net
 instagram.fjoi9-1.fna.fbcdn.net
+instagram.fjpa1-1.fna.fbcdn.net
 instagram.fjpa12-1.fna.fbcdn.net
 instagram.fjpa15-1.fna.fbcdn.net
 instagram.fjpa5-1.fna.fbcdn.net
+instagram.fjpr1-1.fna.fbcdn.net
 instagram.fjrs29-1.fna.fbcdn.net
 instagram.fjsr8-1.fna.fbcdn.net
 instagram.fkbp1-1.fna.fbcdn.net
@@ -870,6 +902,7 @@ instagram.fmxp5-1.fna.fbcdn.net
 instagram.fmyq2-1.fna.fbcdn.net
 instagram.fmzl1-1.fna.fbcdn.net
 instagram.fmzt1-1.fna.fbcdn.net
+instagram.fnag1-2.fna.fbcdn.net
 instagram.fnag1-4.fna.fbcdn.net
 instagram.fnag6-1.fna.fbcdn.net
 instagram.fnap2-1.fna.fbcdn.net
@@ -918,6 +951,7 @@ instagram.fpdg2-1.fna.fbcdn.net
 instagram.fpeh1-1.fna.fbcdn.net
 instagram.fpei2-1.fna.fbcdn.net
 instagram.fpei3-1.fna.fbcdn.net
+instagram.fpen1-2.fna.fbcdn.net
 instagram.fper5-1.fna.fbcdn.net
 instagram.fpfb2-1.fna.fbcdn.net
 instagram.fpgz1-1.fna.fbcdn.net
@@ -952,6 +986,7 @@ instagram.fpnk1-1.fna.fbcdn.net
 instagram.fpnk2-1.fna.fbcdn.net
 instagram.fpnq13-2.fna.fbcdn.net
 instagram.fpnq6-1.fna.fbcdn.net
+instagram.fpnq7-5.fna.fbcdn.net
 instagram.fpnz1-1.fna.fbcdn.net
 instagram.fpnz2-1.fna.fbcdn.net
 instagram.fpnz4-1.fna.fbcdn.net
@@ -990,6 +1025,7 @@ instagram.fqps3-1.fna.fbcdn.net
 instagram.fqro1-1.fna.fbcdn.net
 instagram.fraj2-1.fna.fbcdn.net
 instagram.frao1-1.fna.fbcdn.net
+instagram.frao1-2.fna.fbcdn.net
 instagram.frao2-1.fna.fbcdn.net
 instagram.frba2-2.fna.fbcdn.net
 instagram.frba3-2.fna.fbcdn.net
@@ -1078,6 +1114,7 @@ instagram.fsdu21-1.fna.fbcdn.net
 instagram.fsdu23-1.fna.fbcdn.net
 instagram.fsdu24-1.fna.fbcdn.net
 instagram.fsdu25-1.fna.fbcdn.net
+instagram.fsdu26-1.fna.fbcdn.net
 instagram.fsdu28-1.fna.fbcdn.net
 instagram.fsdu29-1.fna.fbcdn.net
 instagram.fsdu3-1.fna.fbcdn.net
@@ -1121,6 +1158,7 @@ instagram.fsod7-1.fna.fbcdn.net
 instagram.fsof9-1.fna.fbcdn.net
 instagram.fsrg4-1.fna.fbcdn.net
 instagram.fsrg5-2.fna.fbcdn.net
+instagram.fsrz2-1.fna.fbcdn.net
 instagram.fssa1-1.fna.fbcdn.net
 instagram.fssa10-1.fna.fbcdn.net
 instagram.fssa13-1.fna.fbcdn.net
@@ -1217,6 +1255,7 @@ instagram.fvdc1-1.fna.fbcdn.net
 instagram.fver2-1.fna.fbcdn.net
 instagram.fvga2-2.fna.fbcdn.net
 instagram.fvin1-1.fna.fbcdn.net
+instagram.fvix1-1.fna.fbcdn.net
 instagram.fvix16-1.fna.fbcdn.net
 instagram.fvix18-1.fna.fbcdn.net
 instagram.fvix2-1.fna.fbcdn.net
@@ -1233,6 +1272,7 @@ instagram.fwaw8-1.fna.fbcdn.net
 instagram.fwnp1-1.fna.fbcdn.net
 instagram.fxap1-1.fna.fbcdn.net
 instagram.fxap1-2.fna.fbcdn.net
+instagram.fxap2-1.fna.fbcdn.net
 instagram.fyei1-1.fna.fbcdn.net
 instagram.fyei4-1.fna.fbcdn.net
 instagram.fyei6-4.fna.fbcdn.net
@@ -1280,6 +1320,7 @@ media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
 media-gig2-1.cdn.whatsapp.net
 media-gig4-1.cdn.whatsapp.net
+media-gig4-2.cdn.whatsapp.net
 media-gru1-1.cdn.whatsapp.net
 media-gru1-2.cdn.whatsapp.net
 media-gru2-1.cdn.whatsapp.net
@@ -1587,6 +1628,7 @@ scontent-bos3-1.xx.fbcdn.net
 scontent-bos5-1.xx.fbcdn.net
 scontent-bru2-1.xx.fbcdn.net
 scontent-cdg2-1.xx.fbcdn.net
+scontent-cdg4-2.xx.fbcdn.net
 scontent-cdg4-3.xx.fbcdn.net
 scontent-cdt1-1.xx.fbcdn.net
 scontent-cgk1-1.xx.fbcdn.net
@@ -1610,6 +1652,7 @@ scontent-frt3-2.xx.fbcdn.net
 scontent-frx5-1.xx.fbcdn.net
 scontent-gig2-1.xx.fbcdn.net
 scontent-gig4-1.xx.fbcdn.net
+scontent-gig4-2.xx.fbcdn.net
 scontent-gru1-1.xx.fbcdn.net
 scontent-gru1-2.xx.fbcdn.net
 scontent-gru2-1.xx.fbcdn.net
@@ -2231,6 +2274,7 @@ scontent.fgig11-1.fna.fbcdn.net
 scontent.fgig12-1.fna.fbcdn.net
 scontent.fgig13-1.fna.fbcdn.net
 scontent.fgig14-1.fna.fbcdn.net
+scontent.fgig14-2.fna.fbcdn.net
 scontent.fgig15-1.fna.fbcdn.net
 scontent.fgig17-1.fna.fbcdn.net
 scontent.fgig18-1.fna.fbcdn.net
@@ -2621,6 +2665,7 @@ scontent.fopo2-1.fna.fbcdn.net
 scontent.fopo3-1.fna.fbcdn.net
 scontent.fopo3-2.fna.fbcdn.net
 scontent.fopo4-1.fna.fbcdn.net
+scontent.fopo4-2.fna.fbcdn.net
 scontent.fopo5-1.fna.fbcdn.net
 scontent.fopo5-2.fna.fbcdn.net
 scontent.fopo6-2.fna.fbcdn.net
@@ -3066,6 +3111,7 @@ scontent.fthe7-1.fna.fbcdn.net
 scontent.fthe8-1.fna.fbcdn.net
 scontent.fthe9-1.fna.fbcdn.net
 scontent.ftij3-2.fna.fbcdn.net
+scontent.ftir6-1.fna.fbcdn.net
 scontent.ftji1-1.fna.fbcdn.net
 scontent.ftjl2-1.fna.fbcdn.net
 scontent.ftlc2-1.fna.fbcdn.net
@@ -3248,6 +3294,7 @@ sonar-gig.cdn.whatsapp.net
 sonar-gig.xx.fbcdn.net
 sonar-gig2-1.xx.fbcdn.net
 sonar-gig4-1.xx.fbcdn.net
+sonar-gig4-2.xx.fbcdn.net
 sonar-gmp1-1.xx.fbcdn.net
 sonar-gru.cdn.whatsapp.net
 sonar-gru.xx.fbcdn.net
@@ -3272,6 +3319,7 @@ sonar-ist1-1.xx.fbcdn.net
 sonar-itm1-1.xx.fbcdn.net
 sonar-jnb1-1.xx.fbcdn.net
 sonar-kul2-1.xx.fbcdn.net
+sonar-kul2-2.xx.fbcdn.net
 sonar-kul3-1.xx.fbcdn.net
 sonar-kut2-1.xx.fbcdn.net
 sonar-kut2-2.xx.fbcdn.net
@@ -3413,6 +3461,7 @@ star.facebook.com
 star.fallback.c10r.facebook.com
 static-gig2-1.xx.fbcdn.net
 static-gig4-1.xx.fbcdn.net
+static-gig4-2.xx.fbcdn.net
 static-gru2-1.xx.fbcdn.net
 static-gru2-2.xx.fbcdn.net
 static.facebook.com
@@ -3427,6 +3476,7 @@ static.fsdu4-1.fna.fbcdn.net
 static.fsdu8-1.fna.fbcdn.net
 static.fstu2-1.fna.fbcdn.net
 static.whatsapp.net
+static.whatsapp.netg.whatsapp.net
 static.xx.fbcdn.net
 staticxx.facebook.com
 stun.c10r.facebook.com
@@ -3440,6 +3490,7 @@ v.whatsapp.net
 video-eze1-1.xx.fbcdn.net
 video-gig2-1.xx.fbcdn.net
 video-gig4-1.xx.fbcdn.net
+video-gig4-2.xx.fbcdn.net
 video-gru1-1.xx.fbcdn.net
 video-gru1-2.xx.fbcdn.net
 video-gru2-1.xx.fbcdn.net
@@ -3706,6 +3757,7 @@ w3af8782f1-gqytqobxg4ytsmrx.snr.whatsapp.net
 w3b421c4a1-gyydqobzhaytinc.snr.whatsapp.net
 w3c0df83f1-gm2tonjzgq4tsmzx.snr.whatsapp.net
 w3c0ff1e41-geydkmrtgyzdsnrr.snr.whatsapp.net
+w3c1326751-gizdknrtgmytqnbr.snr.whatsapp.net
 w3c2fde621-heztkmjwgi3tsmd.snr.whatsapp.net
 w3c48b3f31-gm3danzsgaydgmrx.snr.whatsapp.net
 w3c6912dd1-gmzdcmzwheydgnzs.snr.whatsapp.net
@@ -3713,6 +3765,7 @@ w3d0c06971-gi4tamzwgy4demjz.snr.whatsapp.net
 w3d3b443a1-ge4temzqgazteoju.snr.whatsapp.net
 w3d44bfa41-hazdgmbthaztcnc.snr.whatsapp.net
 w3d7549241-gyzdcnbrge2tb.snr.whatsapp.net
+w3d80630c1-geytgmjwhe3dqmrr.snr.whatsapp.net
 w3ec50e1b1-gizdmojtgiydmnjv.snr.whatsapp.net
 w3f5eb8351-ge3dqnbxgaydomrt.snr.whatsapp.net
 w3f8ff5511-heytomjzhe3tgoa.snr.whatsapp.net
@@ -3738,6 +3791,7 @@ w4444a5691-gmztqmzyhaytmnjq.snr.whatsapp.net
 w44b68e851-gqzdsmzugi4teobv.snr.whatsapp.net
 w44b922101-gm4tcobsgu4damru.snr.whatsapp.net
 w4524d7ff1-gmytiobugi4tcnbu.snr.whatsapp.net
+w4544e59b1-gi3dimjsguytgmbx.snr.whatsapp.net
 w456cbf101-gi3tknbzgiydqmbv.snr.whatsapp.net
 w45c7cd991-giytanrtheztoobq.snr.whatsapp.net
 w4628abc61-gqydcmrwga2tmnbr.snr.whatsapp.net
@@ -3774,6 +3828,7 @@ w4ff32d361-gq2tcojvga2tkna.snr.whatsapp.net
 w5.web.whatsapp.com
 w5000691e1-geytimzrguytemrt.snr.whatsapp.net
 w5000f52f1-giztqmzsgu4demzy.snr.whatsapp.net
+w511b0dca1-gm3dqmjwge2dcnbx.snr.whatsapp.net
 w513089a51-geztenrrgyydcnzz.snr.whatsapp.net
 w519f7efa1-gi2damzygm4tkmzx.snr.whatsapp.net
 w51a676b81-gi3tsnjwhe3tomzv.snr.whatsapp.net
@@ -3813,6 +3868,7 @@ w5b3563921-gizdomjwgmytoobt.snr.whatsapp.net
 w5b6c55291-gi4dgnbxhe2tonzs.snr.whatsapp.net
 w5ba79b601-geydinrzha4dmnjw.snr.whatsapp.net
 w5bdc4d4b1-gi3dmnzsga4temrq.snr.whatsapp.net
+w5cbcb8061-g4zdkmbxhazdmma.snr.whatsapp.net
 w5cddf3291-giytanbtgmytcmjv.snr.whatsapp.net
 w5d1ca8541-gi2dcmrsgiydkmry.snr.whatsapp.net
 w5d2b75451-ge2tinbshazdonbr.snr.whatsapp.net
@@ -3860,6 +3916,7 @@ w67b1602a1-ge3tanjyhe4dqnzs.snr.whatsapp.net
 w680eb9c21-ge3dgmbrgu3dinju.snr.whatsapp.net
 w6860173f1-ge3dcmrzgm3donju.snr.whatsapp.net
 w686e10901-gq3damrtgiztama.snr.whatsapp.net
+w6880acaf1-geztsmjvgaytenbt.snr.whatsapp.net
 w6885fda41-gqydsojxga2taobs.snr.whatsapp.net
 w68a5ae631-gm3damzqg42tsnzr.snr.whatsapp.net
 w68d6552d1-he4dinbxgy2tqna.snr.whatsapp.net
@@ -3889,6 +3946,7 @@ w7384aeba1-ge4tanzxgu3dsnju.snr.whatsapp.net
 w73d0bcb41-ge4damrvgiydgnbv.snr.whatsapp.net
 w73e14d8d1-ge4tmnrxgezdcnrw.snr.whatsapp.net
 w7408b55e1-gi4dknbugeztcmbs.snr.whatsapp.net
+w745703dc1-ge2tenzsgm3dgnzy.snr.whatsapp.net
 w747719431-g4ydemzwhe4tgnb.snr.whatsapp.net
 w749127531-gi4dqobygeytemrw.snr.whatsapp.net
 w74e0aed41-gy3tcobtguydenc.snr.whatsapp.net
@@ -4009,6 +4067,7 @@ w9b8f5ce21-gi3dcojygu2dqnbw.snr.whatsapp.net
 w9b93ef351-gmydknzyha4tcnzq.snr.whatsapp.net
 w9bc5568f1-gezdembtgy3dcnc.snr.whatsapp.net
 w9c1a5c491-gmytcmzqgm4dkmzz.snr.whatsapp.net
+w9cd7485a1-geytanbtgqzdsnzz.snr.whatsapp.net
 w9cdf660e1-gqydenzxg43tsnjx.snr.whatsapp.net
 w9d056f0a1-giydgnbzga2tiojq.snr.whatsapp.net
 w9d75b2211-geytamrqha3dgnd.snr.whatsapp.net
@@ -4028,6 +4087,7 @@ wa3ff2cc61-g4ztqnjwheztmna.snr.whatsapp.net
 wa4d4d70e1-gyydgojsge3tcob.snr.whatsapp.net
 wa511e9381-gezdsmbqgyztmmjz.snr.whatsapp.net
 wa5248b101-gm4tcnrvha2dcojt.snr.whatsapp.net
+wa55ac9741-g43dsmzrg44tknc.snr.whatsapp.net
 wa5be095a1-ge4tinbrgmydamzt.snr.whatsapp.net
 wa692022c1-gi3domjtgi4demzs.snr.whatsapp.net
 wa6a904c01-gm4tiojxgy4tqnjy.snr.whatsapp.net
@@ -4041,6 +4101,7 @@ wa8bee5a71-gi2dcmzwgi4tgnrq.snr.whatsapp.net
 wa90b89ad1-gezdamjvgizdkojx.snr.whatsapp.net
 wa96b51af1-ge4damjqgezdomrr.snr.whatsapp.net
 wa99c28c81-gm3tmnzyguzdkmru.snr.whatsapp.net
+wa9f96d801-giytiobyhe4dmnbr.snr.whatsapp.net
 waa62a5601-gyydeojvgy3tcmc.snr.whatsapp.net
 waa8e31961-gezdsojsg4ytqnzq.snr.whatsapp.net
 waa936d631-gi3dmnjuga3damry.snr.whatsapp.net
@@ -4070,6 +4131,7 @@ wb3c5f25a1-ge3dmojvha2tcnd.snr.whatsapp.net
 wb44230591-gi2dmmbxgi4tkmbz.snr.whatsapp.net
 wb48d94681-g42dgmrqguztoob.snr.whatsapp.net
 wb5250daa1-gm2dknbyge3dkobz.snr.whatsapp.net
+wb53d558d1-geytemzzhe4tgnrr.snr.whatsapp.net
 wb578578f1-ge2dqnjyga2toojq.snr.whatsapp.net
 wb5b4d7181-gi2tkmrqheztaojv.snr.whatsapp.net
 wb669b9811-gi3tknzygu3dcobr.snr.whatsapp.net
@@ -4115,6 +4177,7 @@ wc55854e01-gm4dqnrvg42tomzq.snr.whatsapp.net
 wc5a203f71-guztgmbugqzdanb.snr.whatsapp.net
 wc5f8d7571-gi2tcmzug43dgnjr.snr.whatsapp.net
 wc67a7f251-geztomzzgmydmnrz.snr.whatsapp.net
+wc69110e11-gm4dqobzhaydqnzy.snr.whatsapp.net
 wc6caad321-ge4dmnbwge4dcmzy.snr.whatsapp.net
 wc6d99cb81-gezdqmbxhaztcmzs.snr.whatsapp.net
 wc7026d391-gizdenrtgy3tknrv.snr.whatsapp.net
@@ -4200,6 +4263,7 @@ wdd8df23c1-gm4dqmzwge2tiojt.snr.whatsapp.net
 wddbd64b81-gmzdqmjyge3tqmrr.snr.whatsapp.net
 wde8ce1a41-gqytgmbug43tknzw.snr.whatsapp.net
 wdf7ab2571-ge3tknbxgyydenju.snr.whatsapp.net
+wdf7c12aa1-gi4tembrge4dqmbr.snr.whatsapp.net
 wdf807be21-gqydembzgu2tsmrx.snr.whatsapp.net
 wdfbcb8db1-gizdonzxgq3demrw.snr.whatsapp.net
 we08d78711-gmzdiojzguydkmjz.snr.whatsapp.net
@@ -4241,6 +4305,7 @@ web-fallback.facebook.com
 web.facebook.com
 web.whatsapp.com
 web.whatsapp.coma.ns.c10r.facebook.com
+web.whatsapp.comg.whatsapp.net
 web.whatsapp.comweb.whatsapp.com
 web.whatsapp.comweb.whatsapp.comapi.facebook.com
 webdav.facebook.com
@@ -4293,6 +4358,7 @@ wfab1856a1-giztgnruha4tinby.snr.whatsapp.net
 wfb2411a91-gm3tsnjxgqztimbz.snr.whatsapp.net
 wfb8e9a031-gi4tqobygeydanrw.snr.whatsapp.net
 wfba281c11-gezteobvgu4tiojs.snr.whatsapp.net
+wfbb7f30c1-gi2dgmjqg44tonjq.snr.whatsapp.net
 wfc9d4e101-gqzdombtge2dambs.snr.whatsapp.net
 wfd3f16fa1-gizteojsgi3tgmbz.snr.whatsapp.net
 wfd8100e01-gm4dgnbwg42tqmby.snr.whatsapp.net
@@ -4349,8 +4415,8 @@ whatsapp.pericred.com
 whatsapp.se
 whatsapp.sticker.fan
 www-cdn.whatsapp.net
-www.Facebook.com
 www.facebook.com
+www.Facebook.com
 www.facebook.com.br
 www.facebook.com.bra.ns.c10r.facebook.com
 www.facebook.com.bra.ns.cdn.whatsapp.net
@@ -4390,6 +4456,7 @@ z-p3-external.fstu2-1.fna.fbcdn.net
 z-p3-external.xx.fbcdn.net
 z-p3-graph.facebook.com
 z-p3-scontent-gig2-1.xx.fbcdn.net
+z-p3-scontent-gig4-1.xx.fbcdn.net
 z-p3-scontent-gru2-1.xx.fbcdn.net
 z-p3-scontent.fbsb6-1.fna.fbcdn.net
 z-p3-scontent.fcgh21-1.fna.fbcdn.net
@@ -4411,10 +4478,12 @@ z-p3-scontent.fscl29-1.fna.fbcdn.net
 z-p3-scontent.fsdu12-2.fna.fbcdn.net
 z-p3-scontent.fsdu13-1.fna.fbcdn.net
 z-p3-scontent.fsdu15-1.fna.fbcdn.net
+z-p3-scontent.fsdu2-1.fna.fbcdn.net
 z-p3-scontent.fsdu2-2.fna.fbcdn.net
 z-p3-scontent.fsdu4-1.fna.fbcdn.net
 z-p3-scontent.fsdu6-1.fna.fbcdn.net
 z-p3-scontent.fsdu7-1.fna.fbcdn.net
+z-p3-scontent.fssa5-1.fna.fbcdn.net
 z-p3-scontent.fstu2-1.fna.fbcdn.net
 z-p3-scontent.fyei6-3.fna.fbcdn.net
 z-p3-scontent.xx.fbcdn.net
@@ -4429,9 +4498,11 @@ z-p4-graph.facebook.com
 z-p4-instagram.fbaq1-1.fna.fbcdn.net
 z-p4-instagram.fbog10-1.fna.fbcdn.net
 z-p4-instagram.feoh3-1.fna.fbcdn.net
+z-p4-instagram.fjsr16-1.fna.fbcdn.net
 z-p4-lookaside.facebook.com
 z-p4-rupload.facebook.com
 z-p4-scontent-gig2-1.xx.fbcdn.net
+z-p4-scontent-gig4-1.xx.fbcdn.net
 z-p4-scontent-gru2-1.xx.fbcdn.net
 z-p4-scontent-gru2-2.xx.fbcdn.net
 z-p4-scontent.fcgh4-1.fna.fbcdn.net
